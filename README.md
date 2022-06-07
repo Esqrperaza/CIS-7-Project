@@ -1,6 +1,6 @@
 # CIS-7-Project
-####Evan Peraza
-####Afnan Alsalihi
+#### Evan Peraza
+#### Afnan Alsalihi
 ## Doctors Without Borders
 A program used to assign medical professionals to a country randomly based on their prefered language.
 ### Technologies
